@@ -3,10 +3,10 @@ One that has the component ResponsiveUIManager
 And the other has the component WindowResizeManager
 
 Window Resize Manager:
-! [Window Resize Manager] (.../Resources/Window Resizer.png)
+! [Window Resize Manager] (WindowResizer.png)
 
 Responsive UI Manager:
-! [Responsive UI Manager] (.../Resources/Responsive UI.png)
+! [Responsive UI Manager] (ResponsiveUI.png)
 
 In Responsive UI Manager,
 Define your breakpoint viewports.
