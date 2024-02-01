@@ -12,7 +12,7 @@ Window Resize Manager:
 <br>
 Responsive UI Manager: 
 <br>
-![Responsive UI Manager](ResponsiveUI.png)
+![Responsive UI Manager](ResponsiveUI2.png)
 <br>
 In Responsive UI Manager, 
 <br>
