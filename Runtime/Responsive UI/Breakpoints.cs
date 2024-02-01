@@ -12,7 +12,9 @@ namespace Runtime.UI.Responsive_UI
     public class Breakpoints
     {
         public string BreakpointName;
+        [Tooltip("Supported viewport width range")]
         public Interval BreakpointWidth;
+        [Tooltip("Supported viewport height range")]
         public Interval BreakpointLength;
         public UIBlock2D UIRoot;
         public static bool IsBreakpointChange(Vector2 resolution, Breakpoints breakpoint) => Interval.IsBetween((int)resolution.x, breakpoint.BreakpointWidth) || Interval.IsBetween((int)resolution.y, breakpoint.BreakpointLength);
